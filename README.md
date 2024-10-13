@@ -5,13 +5,11 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvalfangst&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
 
 ### 🚀 Top Projects
-Here are some of my most popular repositories:
+- 🦀 [**Rust Synthesizer**](https://github.com/hvalfangst/Rust-Synthesizer): Software synthesizer programmed in Rust
+- 🦀 [**Adventures of Pondi**](https://github.com/hvalfangst/Adventures-of-Pondi): 2D platformer programmed in Rust
+- 🦀 [**Axum API**](https://github.com/hvalfangst/Axum-API-with-Auth): REST API written in Rust with Axum providing endpoints secured by JWT
 
-- [**Rust Synthesizer**](https://github.com/hvalfangst/Rust-Synthesizer): Software synthesizer programmed in Rust
 
-- [**Ktor API on K8s**](https://github.com/hvalfangst/https://github.com/hvalfangst/Ktor-API-deployed-to-Kubernetes): API programmed in Kotlin with Ktor framework deployed to Kubernetes
+### 🎵 Check out my Spotify!
+[![Spotify](https://img.shields.io/badge/Spotify-Artist_Profile-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/artist/2c2LQHCbWDtjUFuDD8K2ER)
 
-### 🖋️ Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hvalfangst&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=hvalfangst&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hvalfangst)
