@@ -1,3 +1,6 @@
+# Hey there, fellow lurker!
+
+
 ### 🌐 Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvalfangst&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
 
