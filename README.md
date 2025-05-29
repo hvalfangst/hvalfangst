@@ -7,16 +7,16 @@
 ## 🚀 Top Projects
 
 
-### 🐍🐼 Daily Panda Image Bot
+### 🐍🐼 [Daily Panda Image Bot](https://github.com/hvalfangst/daily-panda-image-bot)
 ![Daily Panda Image Bot](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=daily-panda-image-bot)
 
-### 🦀 Rust Synthesizer
+### 🦀 [Rust Synthesizer](https://github.com/hvalfangst/Rust-Synthesizer)
 ![Rust Synthesizer](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=Rust-Synthesizer)
 
-### 🐍🐳 Azure Static React Website Triggering Functions
+### 🐍🐳 [Azure Static React Website Triggering Functions](https://github.com/hvalfangst/azure-static-react-website-triggering-functions)
 ![Azure Static React Website](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=azure-static-react-website-triggering-functions)
 
-### 🐍🐋 Weather Forecaster
+### 🐍🐋 [Weather Forecaster](https://github.com/hvalfangst/weather-forecaster)
 ![Weather Forecaster](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=weather-forecaster)
 
 
