@@ -23,3 +23,5 @@
 ## 🎵 Check out my Spotify!
 [![Spotify](https://img.shields.io/badge/Spotify-Artist_Profile-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/artist/2c2LQHCbWDtjUFuDD8K2ER)
 
+
+![Today's Panda](https://raw.githubusercontent.com/hvalfangst/daily-panda-image-bot/main/images/panda_current.png)
