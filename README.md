@@ -6,6 +6,9 @@
 
 ## 🚀 Top Projects
 
+### 🦀🎮 [Space Worm](https://github.com/hvalfangst/rust-space-worm-game-wasm)
+![Space Worm](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=rust-space-worm-game-wasm)
+
 
 ### 🐍🐼 [Daily Panda Image Bot](https://github.com/hvalfangst/daily-panda-image-bot)
 ![Daily Panda Image Bot](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=daily-panda-image-bot)
