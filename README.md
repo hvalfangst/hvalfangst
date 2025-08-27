@@ -1,39 +1,15 @@
 # Hey there, fellow lurker!
 
 
-## 🌐 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvalfangst&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
 
-## 🚀 Top Projects
+## Rust apps deployed as WASM to GitHub Pages 🦀
 
-### 🦀🎮 [Space Worm](https://github.com/hvalfangst/rust-space-worm-game-wasm)
-![Space Worm](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=rust-space-worm-game-wasm)
-
-
-### 🐍🐼 [Daily Panda Image Bot](https://github.com/hvalfangst/daily-panda-image-bot)
-![Daily Panda Image Bot](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=daily-panda-image-bot)
-
-
-### 🦀 [Parallax Scrolling GIF Generator Bot](https://github.com/hvalfangst/parallax-scrolling-gif-generator-bot)
-![Parallax Scrolling GIF Generator Bot](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=parallax-scrolling-gif-generator-bot)
-
-### 🦀 [Rust Synthesizer](https://github.com/hvalfangst/Rust-Synthesizer)
-![Rust Synthesizer](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=Rust-Synthesizer)
-
-### 🐍 [Weather Forecaster](https://github.com/hvalfangst/weather-forecaster)
-![Weather Forecaster](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=weather-forecaster)
-
-### 🐳 [Azure Static React Website Triggering Functions](https://github.com/hvalfangst/azure-static-react-website-triggering-functions)
-![Azure Static React Website](https://github-readme-stats.vercel.app/api/pin/?username=hvalfangst&repo=azure-static-react-website-triggering-functions)
+- **[Minesweeper](https://hvalfangst.github.io/minesweeper)**: A classic puzzle game where you uncover tiles and avoid hidden mines.
+- **[Tetris](https://hvalfangst.github.io/tetris)**: The timeless block-stacking game, reimagined in Rust.
+- **[Space Worm](https://hvalfangst.github.io/space-worm)**: Navigate your worm through space while avoiding obstacles.
+- **[Rust Synthesizer](https://hvalfangst.github.io/Rust-Synthesizer)**: Create and experiment with sounds using this browser-based synthesizer.
+- **[Norwegian Tax Calculator](https://hvalfangst.github.io/norwegian-tax-calculator)**: A handy tool to estimate taxes in Norway.
 
 
 ## 🎵 Check out my Spotify!
 [![Spotify](https://img.shields.io/badge/Spotify-Artist_Profile-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/artist/2c2LQHCbWDtjUFuDD8K2ER)
-
-
-## 🐼 Daily Panda Image
-![Today's Panda](https://raw.githubusercontent.com/hvalfangst/daily-panda-image-bot/main/images/panda_current.png)
-
-
-## 🌀 Daily Parallax Scrolling GIF
-![Today's GIF](https://raw.githubusercontent.com/hvalfangst/parallax-scrolling-gif-generator-bot/main/gifs/gif_current.gif)
