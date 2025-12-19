@@ -4,12 +4,15 @@
 
 ## Rust apps deployed as WASM to GitHub Pages 🦀
 
-- **[Minesweeper](https://hvalfangst.github.io/minesweeper)**: A classic puzzle game where you uncover tiles and avoid hidden mines.
+
+- **[Beyond 531](https://hvalfangst.github.io/beyond-531)**: Generate OP percentage-based strength training programs.
+- **[CKAD Exam Wiki](https://hvalfangst.github.io/CKAD)**: Interactive CKAD exam prep material.
+- **[CKA Exam Wiki](https://hvalfangst.github.io/CKA)**: Interactive CKA exam prep material.
+- **[Minesweeper](https://hvalfangst.github.io/minesweeper)**: Boom!
 - **[Tetris](https://hvalfangst.github.io/tetris)**: No blockers.
-- **[Space Worm](https://hvalfangst.github.io/rust-space-worm-game-wasm)**: Navigate your worm through space while avoiding obstacles.
-- **[Beyond 531](https://hvalfangst.github.io/beyond-531)**: Generate BiS percentage-based strength training programs.
-- **[Rust Synthesizer](https://hvalfangst.github.io/rust-synthesizer-wasm/)**: Create PHAT sounds using this browser-based synthesizer.
-- **[Norwegian Tax Calculator](https://hvalfangst.github.io/norwegian-tax-calculator)**: A handy tool to estimate taxes in Norway.
+- **[Space Worm](https://hvalfangst.github.io/rust-space-worm-game-wasm)**: Snake-like roguelite.
+- **[Rust Synthesizer](https://hvalfangst.github.io/rust-synthesizer-wasm/)**: Recreate those legendary ASOT classics.
+- **[Norwegian Tax Calculator](https://hvalfangst.github.io/norwegian-tax-calculator)**: Cooking the books.
 
 
 ## 🎵 Check out my Spotify!
