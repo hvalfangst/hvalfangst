@@ -8,6 +8,7 @@
 - **[Beyond 531](https://hvalfangst.github.io/beyond-531)**: Generate OP percentage-based strength training programs.
 - **[CKAD Exam Wiki](https://hvalfangst.github.io/CKAD)**: Interactive CKAD exam prep material.
 - **[CKA Exam Wiki](https://hvalfangst.github.io/CKA)**: Interactive CKA exam prep material.
+- **[KCNA Exam Wiki](https://hvalfangst.github.io/KCNA)**: Interactive KCNA exam prep material.
 - **[Minesweeper](https://hvalfangst.github.io/minesweeper)**: Boom!
 - **[Tetris](https://hvalfangst.github.io/tetris)**: No blockers.
 - **[Space Worm](https://hvalfangst.github.io/rust-space-worm-game-wasm)**: Snake-like roguelite.
