@@ -9,6 +9,7 @@
 - **[CKAD Exam Wiki](https://hvalfangst.github.io/CKAD)**: Interactive CKAD exam prep material.
 - **[CKA Exam Wiki](https://hvalfangst.github.io/CKA)**: Interactive CKA exam prep material.
 - **[KCNA Exam Wiki](https://hvalfangst.github.io/KCNA)**: Interactive KCNA exam prep material.
+- **[Anatomy of a Request](https://hvalfangst.github.io/anatomy-of-a-request)**: Visualize the journey of an HTTP request.
 - **[Minesweeper](https://hvalfangst.github.io/minesweeper)**: Boom!
 - **[Tetris](https://hvalfangst.github.io/tetris)**: No blockers.
 - **[Space Worm](https://hvalfangst.github.io/rust-space-worm-game-wasm)**: Snake-like roguelite.
